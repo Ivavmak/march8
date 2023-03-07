@@ -42,7 +42,7 @@ body{
 }
 .heartpart{
     width: 100%;
-    height: 100vh;
+    height: 60vh;
     background-color: #ffff;
     -webkit-background-size: cover;
     background-size: cover;
